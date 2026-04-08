@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "P & J Contracting Co Inc",
+    "phone": "+14103672475",
+    "category": "excavation contractor",
+    "city": "Baltimore",
+    "state": "MD"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Baltimore's Excavation Experts",
+      "heroSubline": "P & J Contracting: Reliable excavation services throughout Baltimore and surrounding counties. We handle the tough jobs, done right the first time.",
+      "aboutTitle": "Decades of Baltimore Excavation Expertise",
+      "aboutText": [
+        "P & J Contracting Co Inc has been a fixture in the Baltimore construction scene for over a decade. Founded by two Baltimore natives with a shared passion for precision and a commitment to quality, we've grown from a small operation into a trusted name for excavation services across the region.",
+        "Our approach is simple: We listen to our clients, assess their needs, and deliver solutions that exceed expectations. We value honesty, integrity, and hard work, ensuring every project is completed safely, efficiently, and to the highest standards.",
+        "We're proud to be a part of the Baltimore community. We actively support local initiatives and strive to contribute to the growth and development of our city. When you choose P & J Contracting, you're choosing a partner invested in your success and the well-being of our community."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Baltimore's unique soil conditions, permitting processes, and construction challenges."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We show up on time, prepared to work, and committed to delivering results that meet your deadlines and budget."
+        },
+        {
+          "title": "Safety First",
+          "description": "Safety is our top priority. We maintain a rigorous safety program and ensure all our employees are properly trained and equipped."
+        },
+        {
+          "title": "Experienced Team",
+          "description": "Our team has the skills and experience to handle even the most complex excavation projects with precision and efficiency."
+        }
+      ],
+      "ctaHeadline": "Ready to Break Ground?",
+      "ctaSubline": "Contact P & J Contracting today for a free consultation and estimate. Let's discuss your excavation needs and get your project moving forward."
+    },
+    "services": [
+      {
+        "slug": "site-preparation",
+        "name": "Site Preparation",
+        "shortDescription": "Comprehensive site preparation services for residential and commercial projects.",
+        "description": "Preparing a site for construction in Baltimore requires a keen understanding of the local landscape. From clearing vegetation and removing debris to grading and leveling the ground, we handle every aspect of site preparation with precision and efficiency. We address Baltimore's clay soil challenges, ensuring proper drainage and a stable foundation for your project. Our services include soil testing, erosion control, and compliance with all local regulations.\n\nWe understand the importance of a well-prepared site for the success of any construction project. Our team works closely with developers, contractors, and homeowners to ensure that the site is ready for construction, on time and within budget. Whether you're building a new home in Federal Hill or a commercial development in the Inner Harbor, we have the expertise to get your project off to a solid start.\n\nWe are prepared to deal with unexpected challenges: uncovering old foundations, navigating utility lines, and mitigating environmental concerns. We pride ourselves on our ability to adapt and find solutions that keep your project on track.",
+        "process": [
+          "Step 1: Site Assessment and Planning",
+          "Step 2: Clearing and Grubbing",
+          "Step 3: Grading and Leveling",
+          "Step 4: Erosion Control and Stabilization"
+        ],
+        "benefits": [
+          "Ensures a stable and level foundation",
+          "Prevents soil erosion and water damage",
+          "Complies with local regulations and permitting requirements",
+          "Reduces construction delays and costs"
+        ],
+        "faq": [
+          {
+            "question": "What permits are required for site preparation in Baltimore?",
+            "answer": "Permitting requirements vary depending on the scope and location of the project. We handle all necessary permit applications and ensure compliance with local regulations."
+          },
+          {
+            "question": "How do you address soil erosion during site preparation?",
+            "answer": "We implement a variety of erosion control measures, including silt fences, erosion blankets, and temporary seeding, to minimize soil loss and protect waterways."
+          },
+          {
+            "question": "What types of equipment do you use for site preparation?",
+            "answer": "We utilize a range of heavy equipment, including bulldozers, excavators, graders, and compactors, to efficiently and effectively prepare sites for construction."
+          }
+        ]
+      },
+      {
+        "slug": "excavation-grading",
+        "name": "Excavation & Grading",
+        "shortDescription": "Precise excavation and grading services for residential, commercial, and industrial projects.",
+        "description": "P & J Contracting offers expert excavation and grading services tailored to Baltimore's unique landscape. Whether you're digging a foundation for a new rowhouse in Canton or preparing a site for a commercial building in the Inner Harbor, we have the equipment and experience to get the job done right. We understand the challenges posed by Baltimore's clay soil and ensure proper compaction and drainage to prevent future problems.\n\nOur excavation services include digging foundations, basements, and trenches for utilities. We use advanced GPS technology to ensure precise grading and leveling, creating a stable and even surface for construction. We also handle site clearing, demolition, and removal of debris.\n\nWe prioritize safety and environmental responsibility in all our excavation and grading projects. We take steps to minimize dust and noise pollution and protect nearby trees and vegetation. We are fully insured and licensed to operate in Baltimore and surrounding counties.",
+        "process": [
+          "Step 1: Site Survey and Layout",
+          "Step 2: Excavation and Hauling",
+          "Step 3: Grading and Compaction",
+          "Step 4: Quality Control and Inspection"
+        ],
+        "benefits": [
+          "Ensures a level and stable surface for construction",
+          "Prevents water damage and soil erosion",
+          "Reduces the risk of foundation problems",
+          "Complies with local building codes and regulations"
+        ],
+        "faq": [
+          {
+            "question": "How deep can you excavate?",
+            "answer": "Our excavation capabilities vary depending on the project requirements and site conditions. We can excavate to depths suitable for basements, foundations, and utility trenches."
+          },
+          {
+            "question": "What types of grading services do you offer?",
+            "answer": "We offer a full range of grading services, including rough grading, fine grading, and finish grading, to ensure a smooth and even surface for construction."
+          },
+          {
+            "question": "How do you handle underground utilities during excavation?",
+            "answer": "We carefully locate and mark all underground utilities before beginning excavation to prevent damage and ensure safety. We work closely with utility companies to coordinate our work and avoid disruptions."
+          }
+        ]
+      },
+      {
+        "slug": "drainage-systems",
+        "name": "Drainage Systems",
+        "shortDescription": "Effective drainage solutions to protect your property from water damage.",
+        "description": "Baltimore's high humidity and frequent storms can wreak havoc on your property if you don't have a proper drainage system. P & J Contracting specializes in designing and installing drainage systems that effectively manage stormwater runoff and protect your foundation from water damage. We understand the unique challenges posed by Baltimore's clay soil and design systems that are tailored to your specific needs.\n\nOur drainage services include installing French drains, dry wells, surface drains, and underground retention systems. We also offer grading and landscaping services to improve drainage and prevent water from pooling around your foundation. We work closely with homeowners and businesses to assess their drainage needs and develop customized solutions.\n\nWe use high-quality materials and proven techniques to ensure that your drainage system is effective and long-lasting. We are committed to providing reliable and affordable drainage solutions that protect your property from water damage.",
+        "process": [
+          "Step 1: Site Inspection and Assessment",
+          "Step 2: Drainage System Design",
+          "Step 3: Installation and Testing",
+          "Step 4: Maintenance and Repair"
+        ],
+        "benefits": [
+          "Prevents water damage to your foundation and property",
+          "Reduces the risk of mold and mildew growth",
+          "Improves the health and appearance of your landscape",
+          "Increases the value of your property"
+        ],
+        "faq": [
+          {
+            "question": "What is a French drain and how does it work?",
+            "answer": "A French drain is a gravel-filled trench with a perforated pipe that collects and redirects water away from your foundation. It's an effective way to prevent water from pooling around your basement and causing damage."
+          },
+          {
+            "question": "How do I know if I need a drainage system?",
+            "answer": "Signs that you may need a drainage system include water pooling around your foundation, a damp basement, and soil erosion. Contact us for a free inspection and assessment."
+          },
+          {
+            "question": "How much does a drainage system cost?",
+            "answer": "The cost of a drainage system varies depending on the size and complexity of the project. We provide free estimates and work with you to find a solution that fits your budget."
+          }
+        ]
+      },
+      {
+        "slug": "foundation-excavation",
+        "name": "Foundation Excavation",
+        "shortDescription": "Expert foundation excavation services for new construction and additions.",
+        "description": "Building a solid foundation starts with precise excavation. P & J Contracting provides expert foundation excavation services for new construction and additions throughout Baltimore. We understand the importance of a properly excavated foundation for the structural integrity of your building. We account for Baltimore's clay soil and potential for shifting, ensuring a stable base for your construction project.\n\nOur foundation excavation services include digging footings, basements, and crawl spaces. We use advanced GPS technology to ensure precise dimensions and depths. We also handle site clearing, grading, and removal of debris. Whether you're building a new home in Hampden or adding an addition to your existing property in Mount Vernon, we have the expertise to get the job done right.\n\nWe prioritize safety and environmental responsibility in all our foundation excavation projects. We take steps to minimize dust and noise pollution and protect nearby trees and vegetation. We are fully insured and licensed to operate in Baltimore and surrounding counties.",
+        "process": [
+          "Step 1: Site Survey and Layout",
+          "Step 2: Excavation and Hauling",
+          "Step 3: Grading and Compaction",
+          "Step 4: Quality Control and Inspection"
+        ],
+        "benefits": [
+          "Ensures a stable and level foundation for your building",
+          "Prevents water damage and soil erosion",
+          "Reduces the risk of foundation problems",
+          "Complies with local building codes and regulations"
+        ],
+        "faq": [
+          {
+            "question": "How deep should a foundation be excavated?",
+            "answer": "The depth of a foundation depends on several factors, including the soil type, climate, and building design. We follow local building codes and engineering specifications to determine the appropriate depth."
+          },
+          {
+            "question": "What types of soil testing do you perform?",
+            "answer": "We perform a variety of soil tests, including compaction tests, moisture content tests, and soil classification tests, to ensure that the soil is suitable for supporting the foundation."
+          },
+          {
+            "question": "How do you handle groundwater during excavation?",
+            "answer": "We use dewatering techniques, such as pumping and well pointing, to remove groundwater from the excavation site and keep it dry during construction."
+          }
+        ]
+      },
+      {
+        "slug": "utility-trenching",
+        "name": "Utility Trenching",
+        "shortDescription": "Safe and efficient utility trenching services for water, sewer, and gas lines.",
+        "description": "Installing or repairing underground utilities requires precision and expertise. P & J Contracting provides safe and efficient utility trenching services for water, sewer, and gas lines throughout Baltimore. We understand the importance of protecting existing utilities and preventing damage during excavation. We navigate Baltimore's complex underground infrastructure with care and precision.\n\nOur utility trenching services include digging trenches for new utility lines, repairing existing lines, and installing underground conduits. We use advanced equipment and techniques to minimize disruption to your property and surrounding areas. We also handle backfilling and compaction to ensure the stability of the trenches.\n\nWe prioritize safety and compliance in all our utility trenching projects. We carefully locate and mark all existing utilities before beginning excavation. We are fully licensed and insured to operate in Baltimore and surrounding counties.",
+        "process": [
+          "Step 1: Utility Location and Marking",
+          "Step 2: Trenching and Excavation",
+          "Step 3: Utility Installation or Repair",
+          "Step 4: Backfilling and Compaction"
+        ],
+        "benefits": [
+          "Ensures the safe and reliable installation of utility lines",
+          "Prevents damage to existing utilities",
+          "Minimizes disruption to your property and surrounding areas",
+          "Complies with local regulations and safety standards"
+        ],
+        "faq": [
+          {
+            "question": "How do you locate underground utilities?",
+            "answer": "We use a combination of methods to locate underground utilities, including contacting the Miss Utility hotline, reviewing utility maps, and using electronic locators."
+          },
+          {
+            "question": "What safety precautions do you take during utility trenching?",
+            "answer": "We follow strict safety protocols to prevent accidents and injuries during utility trenching. These protocols include wearing appropriate personal protective equipment, shoring trenches to prevent collapse, and providing adequate lighting and ventilation."
+          },
+          {
+            "question": "How deep do you typically dig utility trenches?",
+            "answer": "The depth of utility trenches depends on the type of utility being installed and local regulations. We follow all applicable codes and standards to ensure that utility lines are buried at the proper depth."
+          }
+        ]
+      },
+      {
+        "slug": "demolition-services",
+        "name": "Demolition Services",
+        "shortDescription": "Safe and efficient demolition services for residential and commercial structures.",
+        "description": "Whether you're clearing a site for new construction or removing an unsafe structure, P & J Contracting provides safe and efficient demolition services throughout Baltimore. We handle residential and commercial demolition projects of all sizes, from small sheds to large buildings. We understand the importance of minimizing disruption to surrounding properties and protecting the environment.\n\nOur demolition services include selective demolition, complete building demolition, and site clearing. We use specialized equipment and techniques to safely and efficiently dismantle structures. We also handle the removal and disposal of debris in an environmentally responsible manner.\n\nWe prioritize safety and compliance in all our demolition projects. We carefully assess each project to identify potential hazards and develop a demolition plan that minimizes risks. We are fully licensed and insured to operate in Baltimore and surrounding counties.",
+        "process": [
+          "Step 1: Site Assessment and Planning",
+          "Step 2: Utility Disconnection and Abatement",
+          "Step 3: Demolition and Debris Removal",
+          "Step 4: Site Clearing and Grading"
+        ],
+        "benefits": [
+          "Provides a safe and efficient way to remove unwanted structures",
+          "Clears sites for new construction",
+          "Reduces the risk of accidents and injuries",
+          "Complies with local regulations and environmental standards"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit for demolition?",
+            "answer": "Yes, a permit is typically required for demolition projects in Baltimore. We handle all necessary permit applications and ensure compliance with local regulations."
+          },
+          {
+            "question": "How do you handle hazardous materials during demolition?",
+            "answer": "We follow strict procedures for handling and disposing of hazardous materials, such as asbestos and lead paint, to protect workers and the environment."
+          },
+          {
+            "question": "How long does demolition typically take?",
+            "answer": "The duration of demolition depends on the size and complexity of the project. We provide realistic timelines and keep you informed throughout the process."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Columbia",
+        "slug": "columbia-md",
+        "state": "MD",
+        "content": "P & J Contracting Co Inc is proud to offer our expert excavation services to the residents and businesses of Columbia, Maryland. As a planned community established in the 1960s-80s, Columbia features a unique mix of residential neighborhoods and commercial centers. We understand the specific needs of homeowners and businesses in this area, from site preparation for new construction to addressing drainage issues common in our hot, humid summers. \n\nOur team is experienced in working with the diverse soil conditions and landscaping styles found throughout Columbia. We're committed to providing efficient, reliable, and environmentally responsible excavation services that meet the highest standards of quality. Whether you're planning a home addition, a commercial development, or simply need assistance with land clearing, P & J Contracting Co Inc is here to help.",
+        "localContext": "Columbia, MD is a large planned community known for its village-like neighborhoods and extensive green spaces. The area experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Ellicott City",
+          "Clarksville",
+          "Jessup"
+        ]
+      },
+      {
+        "city": "Bethesda",
+        "slug": "bethesda-md",
+        "state": "MD",
+        "content": "P & J Contracting Co Inc is dedicated to providing top-notch excavation services to the discerning residents and businesses of Bethesda, Maryland. Known for its upscale neighborhoods featuring homes built from the 1930s to the 1960s, Bethesda presents unique challenges and opportunities for excavation projects. We understand the importance of preserving the character of these established communities while delivering efficient and effective solutions.\n\nOur team has extensive experience working in Bethesda, navigating the specific regulations and requirements of the area. We are committed to providing exceptional customer service and ensuring that every project is completed to the highest standards. From foundation work to drainage improvements, P & J Contracting Co Inc is your trusted partner for all your excavation needs in Bethesda.",
+        "localContext": "Bethesda, MD is an affluent community known for its well-maintained homes, many of which date back to the mid-20th century. Like much of Maryland, Bethesda experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Chevy Chase",
+          "Kensington",
+          "Potomac"
+        ]
+      },
+      {
+        "city": "Rockville",
+        "slug": "rockville-md",
+        "state": "MD",
+        "content": "P & J Contracting Co Inc is pleased to offer our reliable excavation services to the diverse community of Rockville, Maryland. With homes dating from the 1950s to the 1970s, Rockville presents a variety of excavation needs, from basement waterproofing to land clearing for new construction. We understand the importance of providing tailored solutions that meet the specific requirements of each project.\n\nOur team is experienced in working with the various soil types and landscaping styles found throughout Rockville. We are committed to providing efficient, affordable, and environmentally responsible excavation services that exceed your expectations. Whether you're a homeowner, contractor, or business owner, P & J Contracting Co Inc is here to help you achieve your goals.",
+        "localContext": "Rockville, MD is a diverse city featuring a mix of residential neighborhoods and commercial areas. The area is known for its vibrant community and experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Gaithersburg",
+          "Germantown",
+          "North Bethesda"
+        ]
+      },
+      {
+        "city": "Annapolis",
+        "slug": "annapolis-md",
+        "state": "MD",
+        "content": "P & J Contracting Co Inc is proud to serve the historic city of Annapolis, Maryland, with our expert excavation services. Home to many Colonial and Federal-style homes, especially in the downtown area, Annapolis requires a sensitive approach to excavation projects. We understand the importance of preserving the historical integrity of this charming city while providing modern solutions.\n\nOur team has extensive experience working in Annapolis, navigating the unique challenges of excavating around historic structures. We are committed to providing exceptional customer service and ensuring that every project is completed with the utmost care and attention to detail. From foundation repairs to drainage improvements, P & J Contracting Co Inc is your trusted partner for all your excavation needs in Annapolis.",
+        "localContext": "Annapolis, MD is a historic city known for its Colonial architecture and maritime history. Annapolis experiences hot, humid summers and is located on the Chesapeake Bay.",
+        "nearbyAreas": [
+          "Severna Park",
+          "Arnold",
+          "Edgewater"
+        ]
+      },
+      {
+        "city": "Ellicott City",
+        "slug": "ellicott-city-md",
+        "state": "MD",
+        "content": "P & J Contracting Co Inc is dedicated to providing top-quality excavation services to Ellicott City, Maryland. Known for its historic Main Street and beautiful surrounding landscapes, Ellicott City offers a unique blend of residential and commercial properties. We understand the importance of preserving the character of this historic town while providing efficient and reliable excavation solutions.\n\nOur team is experienced in working with the diverse soil conditions and terrain found throughout Ellicott City. We are committed to providing exceptional customer service and ensuring that every project is completed to the highest standards. Whether you're planning a home renovation, a commercial development, or simply need assistance with land clearing, P & J Contracting Co Inc is here to help.",
+        "localContext": "Ellicott City, MD is a historic town known for its charming Main Street and picturesque landscapes. The area experiences all four seasons, including hot, humid summers.",
+        "nearbyAreas": [
+          "Columbia",
+          "Catonsville",
+          "Owings Mills"
+        ]
+      },
+      {
+        "city": "Towson",
+        "slug": "towson-md",
+        "state": "MD",
+        "content": "P & J Contracting Co Inc is pleased to offer comprehensive excavation services to the residents and businesses of Towson, Maryland. As a bustling hub in Baltimore County, Towson features a diverse mix of residential neighborhoods, commercial centers, and educational institutions. We understand the specific needs of property owners in this area and are committed to providing efficient and reliable solutions.\n\nOur team is experienced in working with the various soil conditions and landscaping styles found throughout Towson. We are committed to providing efficient, affordable, and environmentally responsible excavation services that exceed your expectations. Whether you're planning a home addition, a commercial renovation, or simply need assistance with site preparation, P & J Contracting Co Inc is here to help you achieve your goals.",
+        "localContext": "Towson, MD is a major hub in Baltimore County, known for its diverse community and proximity to Baltimore City. The area experiences hot, humid summers and cold winters.",
+        "nearbyAreas": [
+          "Parkville",
+          "Lutherville-Timonium",
+          "Cockeysville"
+        ]
+      },
+      {
+        "city": "Owings Mills",
+        "slug": "owings-mills-md",
+        "state": "MD",
+        "content": "P & J Contracting Co Inc is your trusted provider of excavation services in Owings Mills, Maryland. With a mix of residential neighborhoods, commercial developments, and recreational areas, Owings Mills presents a variety of excavation needs. We are dedicated to providing reliable and efficient solutions to homeowners, contractors, and business owners in the area.\n\nOur team is experienced in working with the diverse soil conditions and terrain found throughout Owings Mills. We are committed to providing exceptional customer service and ensuring that every project is completed to the highest standards. Whether you're planning a new construction project, a landscaping renovation, or simply need assistance with drainage issues, P & J Contracting Co Inc is here to help.",
+        "localContext": "Owings Mills, MD is a growing community in Baltimore County, known for its mix of residential and commercial areas. The area experiences all four seasons, including hot, humid summers.",
+        "nearbyAreas": [
+          "Reisterstown",
+          "Pikesville",
+          "Randallstown"
+        ]
+      },
+      {
+        "city": "Parkville",
+        "slug": "parkville-md",
+        "state": "MD",
+        "content": "P & J Contracting Co Inc is proud to offer professional excavation services to the residents and businesses of Parkville, Maryland. As a vibrant community in Baltimore County, Parkville features a mix of residential neighborhoods and commercial areas. We understand the specific needs of property owners in this area and are committed to providing efficient and reliable solutions.\n\nOur team is experienced in working with the various soil conditions and landscaping styles found throughout Parkville. We are committed to providing efficient, affordable, and environmentally responsible excavation services that exceed your expectations. Whether you're planning a home improvement project, a commercial renovation, or simply need assistance with site preparation, P & J Contracting Co Inc is here to help you achieve your goals.",
+        "localContext": "Parkville, MD is a well-established community in Baltimore County, known for its residential neighborhoods and convenient location. The area experiences hot, humid summers and cold winters.",
+        "nearbyAreas": [
+          "Towson",
+          "Overlea",
+          "Rosedale"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Foundation Excavation",
+        "text": "P & J Contracting did an outstanding job excavating the foundation for our new home in Federal Hill. They were professional, efficient, and paid close attention to detail. The crew was respectful of our neighbors and kept the site clean and organized. We highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Drainage System Installation",
+        "text": "We had significant water pooling issues around our house in Canton. P & J Contracting installed a French drain system that completely solved the problem. They were knowledgeable and provided a clear explanation of the process. The work was completed quickly and the price was reasonable.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jennifer K.",
+        "rating": 5,
+        "service": "Site Preparation",
+        "text": "P & J Contracting prepared our site for a commercial building project in the Inner Harbor. They handled the clearing, grading, and erosion control with expertise. They were responsive to our needs and delivered the project on time and within budget. Great communication throughout the whole process.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Michael L.",
+        "rating": 5,
+        "service": "Utility Trenching",
+        "text": "We needed a new gas line installed at our property in Hampden. P & J Contracting provided prompt and professional utility trenching services. They carefully located existing utilities and ensured the safe installation of the new line. Very impressed with their attention to detail and safety protocols.",
+        "date": "2024-07-10"
+      },
+      {
+        "name": "Ashley P.",
+        "rating": 4,
+        "service": "Demolition Services",
+        "text": "P & J Contracting demolished an old shed on our property in Mount Vernon. They were efficient and careful to minimize disruption to our yard. The cleanup was thorough, and they disposed of the debris properly. Would definitely use them again.",
+        "date": "2024-05-01"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Excavation & Grading",
+        "text": "Excellent work on our lot in Baltimore County. P & J Contracting handled the excavation and grading for our new patio project. The team was professional and provided a fair price. No complaints at all.",
+        "date": "2024-02-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "P & J Contracting | Excavation Baltimore",
+        "description": "Baltimore's trusted excavation contractor. Site prep, foundations, drainage. Serving Baltimore City & County."
+      },
+      "about": {
+        "title": "About P & J Contracting",
+        "description": "Learn about P & J Contracting's history, values, and commitment to the Baltimore community. Experienced excavation services."
+      },
+      "services": {
+        "title": "Excavation Services | Baltimore MD",
+        "description": "P & J Contracting: Complete excavation services in Baltimore. Site prep, foundations, utility trenching, drainage solutions."
+      },
+      "contact": {
+        "title": "Contact P & J Contracting",
+        "description": "Get a free quote for your excavation project. Contact P & J Contracting in Baltimore today!"
+      },
+      "reviews": {
+        "title": "P & J Contracting Reviews",
+        "description": "Read what our customers are saying about P & J Contracting's excavation services in Baltimore. Reliable and professional."
+      },
+      "service-areas": {
+        "title": "P & J Contracting Service Areas",
+        "description": "P & J Contracting provides excavation services throughout Baltimore County and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "site-preparation": "/images/service-site-preparation.webp",
+      "excavation-grading": "/images/service-excavation-grading.webp",
+      "drainage-systems": "/images/service-drainage-systems.webp",
+      "foundation-excavation": "/images/service-foundation-excavation.webp",
+      "utility-trenching": "/images/service-utility-trenching.webp",
+      "demolition-services": "/images/service-demolition-services.webp"
+    },
+    "servicesResponsive": {
+      "site-preparation": {
+        "src": "/images/service-site-preparation.webp",
+        "srcset": "/images/service-site-preparation-400w.webp 400w, /images/service-site-preparation-800w.webp 800w, /images/service-site-preparation-1200w.webp 1200w, /images/service-site-preparation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "excavation-grading": {
+        "src": "/images/service-excavation-grading.webp",
+        "srcset": "/images/service-excavation-grading-400w.webp 400w, /images/service-excavation-grading-800w.webp 800w, /images/service-excavation-grading-1200w.webp 1200w, /images/service-excavation-grading.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drainage-systems": {
+        "src": "/images/service-drainage-systems.webp",
+        "srcset": "/images/service-drainage-systems-400w.webp 400w, /images/service-drainage-systems-800w.webp 800w, /images/service-drainage-systems-1200w.webp 1200w, /images/service-drainage-systems.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "foundation-excavation": {
+        "src": "/images/service-foundation-excavation.webp",
+        "srcset": "/images/service-foundation-excavation-400w.webp 400w, /images/service-foundation-excavation-800w.webp 800w, /images/service-foundation-excavation-1200w.webp 1200w, /images/service-foundation-excavation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "utility-trenching": {
+        "src": "/images/service-utility-trenching.webp",
+        "srcset": "/images/service-utility-trenching-400w.webp 400w, /images/service-utility-trenching-800w.webp 800w, /images/service-utility-trenching-1200w.webp 1200w, /images/service-utility-trenching.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "demolition-services": {
+        "src": "/images/service-demolition-services.webp",
+        "srcset": "/images/service-demolition-services-400w.webp 400w, /images/service-demolition-services-800w.webp 800w, /images/service-demolition-services-1200w.webp 1200w, /images/service-demolition-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
